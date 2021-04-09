@@ -1,3 +1,5 @@
+Demo:  https://react-shopping-cart-denny.herokuapp.com/
+
 # Environment SetUp
 * Node.js
 * npm install dotenv
